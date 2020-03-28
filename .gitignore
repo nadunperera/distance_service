@@ -1,0 +1,6 @@
+distance_service_env/
+constants.py
+settings.json
+*.pyc
+__pycache__/
+.vscode/
